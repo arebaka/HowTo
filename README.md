@@ -11,8 +11,8 @@
 
 ## ПО, через которое можно скачивать или архивировать ресурсы
 * [ArchiveBox - опенсурсный вебархив](https://github.com/ArchiveBox/ArchiveBox)
-* [Zeal - оффлайн документация для разработчиков](https://zealdocs.org/)
-  - Неофициальный список документации/фидов/cheatsheets которые были созданы пользователями - [раз](https://zealusercontributions.vercel.app/), [два](https://zealusercontributions.now.sh) 
+* [Zeal - оффлайн документация для разработчиков](https://zealdocs.org/)  
+  Неофициальный список документации/фидов/cheatsheets которые были созданы пользователями: [раз](https://zealusercontributions.vercel.app/), [два](https://zealusercontributions.now.sh) 
 * [Kiwix - вики-ресурсы оффлайн](https://www.kiwix.org/en/)
 * [Gitea, есть возможность зеркалировать репозитории](https://gitea.io/ru-ru/)
 * [yt-dlp - скачивание видео с YouTube](https://github.com/yt-dlp/yt-dlp)
@@ -26,6 +26,7 @@
 * OS Android
   * [FDroid](android/fdroid/index.md)
 * [Git](git/index.md)
+* [Информатика (computer science)](cs/index.md)
 * [Полезные ссылки](links/index.md)
 
 ## Отказ от ответственности
